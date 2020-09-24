@@ -1,5 +1,8 @@
 body {
-	background-color: #ff0000;
-	color: gold;
+	background-color: #cc00ff;
+	color: rgb(145, 255, 0);
 	font-size: 18px;
+	font-weight: 600;
+	font-size: 40px;
+	margin-top: 220px;
 }
